@@ -35,6 +35,12 @@ I'm a passionate **software engineer** and **university student** with a deep in
 
 ---
 
+## 🧪 Experimental & University Projects
+For experimental code, university work, and learning logs, check out my secondary GitHub:
+
+👉 [@matthew-dev-lab](https://github.com/matthew-dev-lab)
+
+
 <!---
 matthew-christian-susanto/matthew-christian-susanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
